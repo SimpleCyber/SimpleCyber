@@ -12,6 +12,8 @@ I don’t just write code;
 I create solutions that make life simpler, faster, and more efficient.
 Because at the end of the day, if there’s a problem, I’ll find a way to engineer my way through it.</p>
 
+Curently Building : [flejet.vercel.app](https://flejet.vercel.app?utm_source=chatgpt.com) (Social Media Automation Tool)
+
 ## Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simplecyber)
